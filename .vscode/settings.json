@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "errno.h": "c",
+        "bmpfile.h": "c",
+        "shm.h": "c",
+        "ncurses.h": "c",
+        "processa_utilities.h": "c"
+    }
+}

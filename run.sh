@@ -1,0 +1,2 @@
+
+./bin/master_sc
