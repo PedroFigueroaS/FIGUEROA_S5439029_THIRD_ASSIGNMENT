@@ -3,7 +3,7 @@ GITHUB LINK OF THE PROJECT: https://github.com/PedroFigueroaS/FIGUEROA_S5439029_
 In particular, the repository is organized as follows:
 - The `src` folder contains the source code for the Master, Process A, and Process B.
 - The `include` folder contains all the data structures and methods used within the ncurses framework to build the two GUIs. 
-- The `bin` folder is where the executable files of the codes in the src files are stored
+- The `bin` folder is where the executable files of the codes in the src files are stored (NOTE: in the same address of include, src and out, create the folder bin, in order to compile the executables in this file)
 - The `Out` folder is where the bitmaps are stored.
 
 ## ncurses installation
